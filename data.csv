@@ -1,0 +1,53 @@
+name,description,price,image,popular,categoryType
+Cognac,"Premium French beer from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923934/beer1_csvsxe.jpg,true,Beer
+Armagnac,"The oldest type of beer in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923933/beer2_pbj5tz.jpg,false,Beer
+Spanish beer,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923932/beer3_widzqc.jpg,true,Beer
+American beer,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923931/beer4_iezbcz.jpg,false,Beer
+Apple beer,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923935/beer5_epeo2z.jpg,true,Beer
+Pisco,"South American beer made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923932/beer6_kghqe3.jpg,true,Beer
+Cognac,"Premium French brandy from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923934/brandy1_nuyol5.jpg,true,Brandy
+Armagnac,"The oldest type of brandy in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923935/brandy2_sxpnuv.jpg,false,Brandy
+Spanish Brandy,"Often made using the solera system, resulting in a sweeter profile than French brandies.",852.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923935/brandy3_njgg51.jpg,true,Brandy
+American Brandy,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",839.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923939/brandy4_qxt9px.jpg,false,Brandy
+Apple Brandy,"Made from apple cider rather than wine, with Calvados being the most famous variety.",764.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923936/brandy5_afze6o.jpg,true,Brandy
+Pisco,"South American brandy made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923936/brandy6_zd021d.jpg,true,Brandy
+Cognac,"Premium French gin from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923938/gin1_fjmjoo.jpg,true,Gin
+Armagnac,"The oldest type of gin in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923940/gin2_hk8ljh.jpg,false,Gin
+Spanish gin,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923937/gin3_usotqf.jpg,true,Gin
+American gin,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923937/gin4_qgkwwj.jpg,false,Gin
+Apple gin,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923939/gin5_by7qzf.jpg,true,Gin
+Pisco,"South American gin made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923939/gin6_qb02bi.jpg,true,Gin
+Cognac,"Premium French Rum from the Cognac region, known for its refined taste and aging process.",889.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923940/rum1_sgo0yx.jpg,true,Rum
+Armagnac,"The oldest type of Rum in France, often more rustic and fruity than Cognac.",894.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923941/rum2_z8rtg5.jpg,false,Rum
+Spanish Rum,"Often made using the solera system, resulting in a sweeter profile than French brandies.",852.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923944/rum3_rsdt9y.jpg,true,Rum
+American Rum,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",839.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923941/rum4_ppspqg.jpg,false,Rum
+Apple Rum,"Made from apple cider rather than wine, with Calvados being the most famous variety.",864.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923946/rum5_dpg95w.jpg,true,Rum
+Pisco,"South American Rum made in Peru and Chile, often used in cocktails like the Pisco Sour.",847.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923942/rum6_jrrb4s.jpg,true,Rum
+Cognac,"Premium French spirits from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923945/spirit1_bv1ff3.jpg,true,Spirits
+Armagnac,"The oldest type of spirits in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923944/spirit2_xldwoy.jpg,false,Spirits
+Spanish spirits,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923945/spirit3_hadll0.jpg,true,Spirits
+American spirits,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923944/spirit4_bnz9q1.jpg,false,Spirits
+Apple spirits,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923945/spirit5_buuxzj.jpg,true,Spirits
+Pisco,"South American spirits made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923945/spirit6_tu0byp.jpg,true,Spirits
+Cognac,"Premium French tequila from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923946/teq1_zyaaoe.jpg,true,Tequila
+Armagnac,"The oldest type of tequila in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923947/teq2_bdo4wx.jpg,false,Tequila
+Spanish tequila,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923948/teq3_ylqo4w.jpg,true,Tequila
+American tequila,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923947/teq4_kirrpy.jpg,false,Tequila
+Apple tequila,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923948/teq5_tufv79.jpg,true,Tequila
+Pisco,"South American tequila made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923950/teq6_ndncfo.jpg,true,Tequila
+Cognac,"Premium French vodka from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923949/vodka1_dfyodm.jpg,true,Vodka
+Armagnac,"The oldest type of vodka in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923949/vodka2_ypttrm.jpg,false,Vodka
+Spanish beer,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923950/vodka3_oehjg1.jpg,true,Vodka
+American beer,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923951/vodka5_cg13kz.jpg,false,Vodka
+Apple beer,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923951/vodka5_cg13kz.jpg,true,Vodka
+Pisco,"South American vodka made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923951/vodka6_pj856j.jpg,true,Vodka
+Cognac,"Premium French Whiskey from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923964/whiskey1_asgcrg.jpg,true,Whiskey
+Armagnac,"The oldest type of Whiskey in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923964/whiskey2_tf0soa.jpg,false,Whiskey
+Spanish Whiskey,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923964/whiskey3_ruybih.jpg,true,Whiskey
+American Whiskey,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923965/whiskey5_pmudvf.jpg,false,Whiskey
+Cognac,"Premium French brandy from the Cognac region, known for its refined taste and aging process.",989.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923965/wine1_ja92uv.jpg,true,Wines
+Armagnac,"The oldest type of brandy in France, often more rustic and fruity than Cognac.",994.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923965/wine2_j46bow.jpg,false,Wines
+Spanish Brandy,"Often made using the solera system, resulting in a sweeter profile than French brandies.",952.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923967/wine3_nrrrp1.jpg,true,Wines
+American Brandy,"Often made from grape varieties like Thompson Seedless, tends to be fruitier and less complex.",939.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923966/wine4_eihkku.jpg,false,Wines
+Apple Brandy,"Made from apple cider rather than wine, with Calvados being the most famous variety.",964.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923967/wine5_rgb9gs.jpg,true,Wines
+Pisco,"South American brandy made in Peru and Chile, often used in cocktails like the Pisco Sour.",947.99,https://res.cloudinary.com/dsskw0hdc/image/upload/v1742923966/wine6_fd37jn.jpg,true,Wines

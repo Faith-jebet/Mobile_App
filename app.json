@@ -2,6 +2,10 @@
   "expo": {
     "name": "techalchemy",
     "slug": "techalchemy",
+    "extra": {
+      "sbUrl": "https://zrurqlijkaldodxnpwrp.supabase.co",
+      "supabaseAnonKey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpydXJxbGlqa2FsZG9keG5wd3JwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE3OTA3NjEsImV4cCI6MjA1NzM2Njc2MX0.62zpldw_W6WDPi8qQAjDK_Yq2d6F3BP85U00Gm7ubQM"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -27,10 +31,11 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/images(1).png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#232323"
+          
         }
       ]
     ],
